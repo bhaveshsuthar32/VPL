@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.about1{
+    /* border: 2px solid red; */
+    padding: 21px 179px;
+    text-align: center;
+}
+
+.about1 h1{
+    /* border: 2px solid red; */
+    font-family: sans-serif;
+    font-size: 48px;
+    color: #333232;
+    margin-bottom: 22px;
+}
+.about1 p{
+    /* border: 2px solid red; */
+    font-family: math;
+    font-size: 18px;
+    color: #000000;
+    padding: 8px 27px;
+}
+
+/* ------------ */
+
+.about2{
+    /* border: 2px solid green; */
+    height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    padding: 15px 80px;
+}
+
+.about2 .ap1{
+    border: 1px solid rgb(204 197 197);
+    height: 140px;
+    text-align: center;
+    padding: 12px 45px;
+    background-color: #f7f7f7; 
+    border-radius: 2px;
+    box-shadow: 0px 0px 25px -15px black;
+}
+
+.about2 .ap1 h3{
+    /* border: 2px solid rgb(0, 51, 255); */
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    color: #383030;
+    margin-top: 10px;
+}
+
+.about2 .ap1 p{
+    /* border: 2px solid rgb(0, 51, 255); */
+    font-size: 15px;
+    font-family: system-ui;
+    margin-bottom: 10px;
+    color: #000000;
+}
+ 
+/* ----------------------------- */
+
+.about3{
+    /* border: 2px solid red; */
+    /* padding: 5px; */
+    background-color: #f2f0f0; 
+}
+
+.ap31 h1{
+    /* border: 2px solid gray; */
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    color: #313030;
+}
+
+
+.about3 .vpl1{
+    border-bottom: 1px solid rgb(169 165 165);
+    padding: 30px 76px;
+    /* margin-bottom: 32px; */
+    box-shadow: 0px 9px 14px -16px black;
+}
+
+.vpl1 .img1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 35px;
+}
+
+.img1 .org_img{
+    border: 1px solid #cacaca;
+    height: 350px;
+    padding: 10px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 11px -1px #c0bebe;
+}
+
+.org_img img{
+    width: 230px;
+    height: 270px;
+}
+
+.line p{
+ /* border: 2px solid gray; */
+ margin-top: 20px;
+    font-size: 19px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: math;
+    color: #383838;
+    padding: 30px 261px;
+}

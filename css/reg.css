@@ -1,0 +1,85 @@
+.form{
+    border: 2px solid rgb(255, 255, 255);   
+    height: 575px;
+}
+
+form .table{
+        /* border: 2px solid blue; */
+        width: 455px;
+        height: 280px;
+        margin: auto;
+        border-radius: 5px;
+        margin-top: 152px;
+        box-shadow: 0px 0px 44px -6px #8491b8;
+        padding: 21px;
+        background-color: #aec0db;
+        /* background-color: red; */
+}
+
+.table div h2{  
+    /* border: 2px solid red; */
+    margin: 21px 0px 45px 0px;
+    text-align: center;
+    font-family: monospace;
+    color: black;
+    font-weight: bold;
+    
+}
+
+div label{
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 53px;
+    margin-bottom: 6px;
+
+}
+
+.table div input{
+    float: right;
+    margin-right: 36px;
+    border-radius: 4px;
+    border: 1px solid #9d9c9c;
+}
+
+.table .btn input{
+    width: 130px;
+    height: 32px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 23px;
+    margin-left: 107px;
+}
+
+.table .btn{
+    border:none;
+}
+.table .btn input:hover{
+    border: none;
+    color: white;
+    background-color: rgb(5, 128, 236);
+}
+
+@media (min-width: 412px) {
+    form .table{
+        width: 350px;
+        height: 270px;
+        font-size:12px ;
+    }
+    .table div h2{
+        font-size: 30px;
+        font-weight: bold;
+        
+    }
+    div label{
+        margin-left: 5px;
+
+    }
+    .table div input{
+        width: 150px;
+    }
+    .table .btn input{
+        width: 100px;
+        height: 30px;
+    }
+}
