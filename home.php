@@ -143,17 +143,17 @@
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OOfrBLXPZKaVZ-nwC8p9_dYGFi3jY4ktjQ&usqp=CAU"
+                src="./image/img-1.jpeg"
                 class=" h-[300px] w-full sm:h-[380px]" alt="...">
             </div>
             <div class="carousel-item">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCIq1WFIqckI69eGZ67ugLdfxchy96eLR7w&usqp=CAU"
+                src="./image/img-3.jpeg"
                 class=" h-[300px] w-full sm:h-[380px]" alt="...">
             </div>
             <div class="carousel-item">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73Hx3joXluMeacnnC_5P92ZM4zbZq6-VYvWGrgPwLmEWlLRepRH1jYOGoQyHJYbviEnU&usqp=CAU"
+                src="./image/img-2.jpeg"
                 class=" h-[300px] w-full sm:h-[380px]" alt="...">
             </div>
           </div>
@@ -163,17 +163,17 @@
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OOfrBLXPZKaVZ-nwC8p9_dYGFi3jY4ktjQ&usqp=CAU"
+                src="./image/img-1.jpeg"
                 class=" h-[300px] w-full sm:h-[380px]" alt="...">
             </div>
             <div class="carousel-item">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCIq1WFIqckI69eGZ67ugLdfxchy96eLR7w&usqp=CAU"
+                src="./image/img-2.jpeg"
                 class=" h-[300px] w-full sm:h-[380px]" alt="...">
             </div>
             <div class="carousel-item">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73Hx3joXluMeacnnC_5P92ZM4zbZq6-VYvWGrgPwLmEWlLRepRH1jYOGoQyHJYbviEnU&usqp=CAU"
+                src="./image/img-3.jpeg"
                 class=" h-[300px] w-full sm:h-[380px]" alt="...">
             </div>
           </div>
@@ -183,17 +183,17 @@
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OOfrBLXPZKaVZ-nwC8p9_dYGFi3jY4ktjQ&usqp=CAU"
+                src="./image/img-1.jpeg"
                 class=" h-[300px] w-full sm:h-[380px]" alt="...">
             </div>
             <div class="carousel-item">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCIq1WFIqckI69eGZ67ugLdfxchy96eLR7w&usqp=CAU"
+                src="./image/img-3.jpeg"
                 class=" h-[300px] w-full sm:h-[380px]" alt="...">
             </div>
             <div class="carousel-item">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73Hx3joXluMeacnnC_5P92ZM4zbZq6-VYvWGrgPwLmEWlLRepRH1jYOGoQyHJYbviEnU&usqp=CAU"
+                src="./image/img-2.jpeg"
                 class=" h-[300px] w-full sm:h-[380px]" alt="...">
             </div>
           </div>
