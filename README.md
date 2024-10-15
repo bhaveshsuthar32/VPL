@@ -1,3 +1,3 @@
 # VPL Tournament
 
-skills :- HTML, CSS, Tailwindcss, Js, PHP, MySql
+skills :- HTML, CSS, Tailwindcss, JavaScript, PHP, MySql
